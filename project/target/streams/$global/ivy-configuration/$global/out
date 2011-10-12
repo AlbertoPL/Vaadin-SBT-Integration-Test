@@ -1,0 +1,9 @@
+[debug] Other repositories:
+[debug] Default repositories:
+[debug] 	URLRepository(typesafe-ivy-releases,sbt.Patterns@66bfa709)
+[debug] 	Raw(ProjectResolver(inter-project, mapped: ))
+[debug] 	FileRepository(local,FileConfiguration(true,None),sbt.Patterns@eee2024)
+[debug] 	Arnauld: https://github.com/Arnauld/arnauld.github.com/tree/master/maven2
+[debug] 	public: http://repo1.maven.org/maven2/
+[debug] 	Scala-Tools Maven2 Repository: http://scala-tools.org/repo-releases
+[debug] Using inline dependencies specified in Scala.
